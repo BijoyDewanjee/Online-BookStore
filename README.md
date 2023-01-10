@@ -1,4 +1,4 @@
-# e-bookstore
+# Online bookstore
 
 Online shopping book store integrated with PAYTM integration with admin console, to dynamically update the webpage by adding books and categories.
 Also the admin can manage and cordinate the transactions made by the customers and their requests. From user point of view, he can manage his profile and buy the books  
@@ -58,9 +58,6 @@ Similary for user login.
 ![image](https://user-images.githubusercontent.com/69163882/150624101-1a708546-1137-427a-9cde-e0791c83da71.png)
 
 
-# PAYTM Integration
-
-![image](https://user-images.githubusercontent.com/69163882/150624134-5655d971-bbf8-469b-bd73-dc24352d43dc.png)
 
 
 # Book page
@@ -84,9 +81,7 @@ Similary for user login.
 ![image](https://user-images.githubusercontent.com/69163882/150555625-91efd57d-d464-4b69-9e6d-474a01ae4581.png)
 
 
-# Profile Update
 
-![image](https://user-images.githubusercontent.com/69163882/150555495-32eb419c-28ef-41b1-83c6-7ab1041145ac.png)
 
 
 # ADMIN SIDE
@@ -96,11 +91,7 @@ Similary for user login.
 ![image](https://user-images.githubusercontent.com/69163882/150556005-3cae8ce6-d9ae-44c5-95de-6ded4d16bc08.png)
 
 
-# Customer Overview
 
-![image](https://user-images.githubusercontent.com/69163882/150556176-23c32c9f-984c-4569-bd31-33e5d7777578.png)
-
-Similarly can view both overall transactions and individual customer transactions
 
 
 # Upload Books
@@ -116,3 +107,5 @@ Similarly can upload categories
 
 Similarly for request section
 
+# Online-BookStore
+# Online-BookStore
