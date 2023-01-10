@@ -76,21 +76,12 @@ Similary for user login.
 ![image](https://user-images.githubusercontent.com/69163882/150555270-333a42da-3f9a-42ab-8529-08a289e2d565.png)
 
 
-# User Profile
-
-![image](https://user-images.githubusercontent.com/69163882/150555625-91efd57d-d464-4b69-9e6d-474a01ae4581.png)
-
-
-
-
 
 # ADMIN SIDE
 
 # Dashboard
 
 ![image](https://user-images.githubusercontent.com/69163882/150556005-3cae8ce6-d9ae-44c5-95de-6ded4d16bc08.png)
-
-
 
 
 
@@ -107,5 +98,4 @@ Similarly can upload categories
 
 Similarly for request section
 
-# Online-BookStore
-# Online-BookStore
+
